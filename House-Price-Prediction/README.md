@@ -97,7 +97,7 @@ The model was evaluated using two standard regression metrics:
 
 ---
 
-## 📈 Results & Performance Summary
+## Results & Performance Summary
 
 | Metric                      | Value                   |
 | --------------------------- | ----------------------- |
@@ -119,7 +119,7 @@ The model was evaluated using two standard regression metrics:
 
 ---
 
-## 🚀 How to Run the Notebook
+## How to Run the Notebook
 
 ### 1. Clone the Repository
 
