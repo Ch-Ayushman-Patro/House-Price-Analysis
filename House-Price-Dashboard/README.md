@@ -1,10 +1,10 @@
-# 📊 House Price Dashboard
+# House Price Dashboard
 
 An interactive Tableau dashboard that provides visual insights into residential property data in India. The dashboard helps users quickly explore pricing patterns, property distributions, and key metrics through a collection of charts and KPI cards.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Purpose](#-purpose)
 - [What the Dashboard Visualizes](#-what-the-dashboard-visualizes)
@@ -16,7 +16,7 @@ An interactive Tableau dashboard that provides visual insights into residential 
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The goal of this dashboard is to provide a visual, easy-to-understand overview of the housing dataset. Instead of reading raw numbers, users can interact with charts, compare categories, and spot trends instantly. This is especially useful for:
 
@@ -26,7 +26,7 @@ The goal of this dashboard is to provide a visual, easy-to-understand overview o
 
 ---
 
-## 📈 What the Dashboard Visualizes
+## What the Dashboard Visualizes
 
 The dashboard presents multiple views of the housing data, organized into KPI cards and detailed charts:
 
@@ -43,7 +43,7 @@ The dashboard presents multiple views of the housing data, organized into KPI ca
 
 ---
 
-## 📂 Dataset Used
+## Dataset Used
 
 The dashboard is powered by the file `house-price-dataset.xlsx`, which contains **14,619 property records** with **23 features** including:
 
@@ -58,7 +58,7 @@ The dashboard is powered by the file `house-price-dataset.xlsx`, which contains 
 
 ---
 
-## 📊 Key Metrics & Visual Elements
+## Key Metrics & Visual Elements
 
 ### KPI Cards
 
@@ -78,7 +78,7 @@ At the top of the dashboard, four summary cards provide quick access to:
 
 ---
 
-## 💡 Insights You Can Gain
+## Insights You Can Gain
 
 By exploring this dashboard, users can uncover:
 
@@ -90,7 +90,7 @@ By exploring this dashboard, users can uncover:
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 Below is a screenshot of the Tableau dashboard:
 
@@ -98,7 +98,7 @@ Below is a screenshot of the Tableau dashboard:
 
 ---
 
-## 🔧 How to Open the Dashboard
+## How to Open the Dashboard
 
 ### Requirements
 
