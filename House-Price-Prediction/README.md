@@ -1,10 +1,10 @@
-# 🤖 House Price Prediction
+# House Price Prediction
 
 A machine learning project that predicts residential property prices using **Linear Regression**. The entire pipeline — from data loading and cleaning to model training and evaluation — is implemented in a Jupyter Notebook using Python and scikit-learn.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Goal](#-goal)
 - [Dataset Overview & Features](#-dataset-overview--features)
@@ -18,13 +18,13 @@ A machine learning project that predicts residential property prices using **Lin
 
 ---
 
-## 🎯 Goal
+## Goal
 
 The objective of this project is to build a regression model that can **predict the sale price of a house** based on its physical and locational attributes. By training on historical property data, the model learns the relationship between features (like area, rooms, and condition) and the final price.
 
 ---
 
-## 📊 Dataset Overview & Features
+## Dataset Overview & Features
 
 The dataset (`house-price-dataset.csv`) contains **14,619 property records** with **23 columns**.
 
@@ -56,7 +56,7 @@ The dataset (`house-price-dataset.csv`) contains **14,619 property records** wit
 
 ---
 
-## 🔧 Data Preprocessing Steps
+## Data Preprocessing Steps
 
 The notebook follows a structured preprocessing pipeline:
 
@@ -72,7 +72,7 @@ The notebook follows a structured preprocessing pipeline:
 
 ---
 
-## 🧠 Model Used
+## Model Used
 
 ### Linear Regression (scikit-learn)
 
@@ -86,7 +86,7 @@ The model was trained using `sklearn.linear_model.LinearRegression` and fitted o
 
 ---
 
-## 📏 Evaluation Metrics
+## Evaluation Metrics
 
 The model was evaluated using two standard regression metrics:
 
@@ -148,7 +148,7 @@ jupyter notebook
 
 ---
 
-## 📦 Requirements & Libraries
+## Requirements & Libraries
 
 | Library          | Version (used) | Purpose                        |
 | ---------------- | -------------- | ------------------------------ |
@@ -164,15 +164,3 @@ Install all at once:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ```
-
----
-
-## 📄 PDF Report
-
-A static PDF export of the fully executed notebook is available as **`house-price-prediction.pdf`**. This file contains:
-
-- All code cells with their outputs
-- Visualizations (EDA charts, correlation heatmap, KDE plots)
-- Evaluation metrics and results summary
-
-This is useful for quick review without needing to run the notebook or install any dependencies.
