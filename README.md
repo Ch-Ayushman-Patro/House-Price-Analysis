@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠 House Price Analysis
+# House Price Analysis
 
 ### End-to-End Data Science Project with Visual Analytics & Machine Learning
 
@@ -14,7 +14,7 @@ An end-to-end data analysis and machine learning project that combines an **inte
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [High-Level Architecture](#-high-level-architecture)
@@ -37,7 +37,7 @@ This project addresses two complementary goals:
 
 <div align="center">
 
-| 📂 Component | 🛠 Tool | 🎯 Purpose |
+| Component | Tool | Purpose |
 |-------------|---------|-----------|
 | `House-Price-Dashboard/` | Tableau Desktop | Interactive visual analytics & exploration |
 | `House-Price-Prediction/` | Python · scikit-learn | EDA + baseline regression model |
@@ -240,11 +240,11 @@ The notebook trains a **Linear Regression** model (scikit-learn) after standardi
 
 | Category | Enhancement | Expected Impact |
 |----------|-------------|-----------------|
-| 🤖 **Models** | Random Forest, Gradient Boosting, XGBoost | Capture complex non-linear relationships |
-| 🔧 **Features** | House age, price per sq. ft., interaction terms | Add domain knowledge to predictions |
-| 📊 **Target** | Log-transform `Price` | Reduce right-skew in distribution |
-| ✅ **Validation** | K-fold cross-validation + hyperparameter tuning | More robust performance estimates |
-| 🗺️ **Data** | Neighbourhood socioeconomic features | Incorporate location-based insights |
+| **Models** | Random Forest, Gradient Boosting, XGBoost | Capture complex non-linear relationships |
+| **Features** | House age, price per sq. ft., interaction terms | Add domain knowledge to predictions |
+| **Target** | Log-transform `Price` | Reduce right-skew in distribution |
+| **Validation** | K-fold cross-validation + hyperparameter tuning | More robust performance estimates |
+| **Data** | Neighbourhood socioeconomic features | Incorporate location-based insights |
 
 ---
 
